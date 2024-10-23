@@ -1,0 +1,6 @@
+.calculator {
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 5px solid #ffff00; /* yellow border outside */
+}
